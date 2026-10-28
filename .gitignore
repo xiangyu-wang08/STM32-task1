@@ -1,0 +1,12 @@
+# Keil 编译输出目录
+Objects/
+Listings/
+
+# Keil 个人界面状态
+*.uvguix.*
+*.uvgui.*
+
+# 临时文件、自动备份
+*.tmp
+*.bak
+*~
